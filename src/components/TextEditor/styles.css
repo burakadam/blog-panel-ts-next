@@ -1,0 +1,11 @@
+.editor-shell {
+  margin: 0 !important;
+}
+
+.toolbar > *,
+.toolbar button.toolbar-item.spaced {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  align-items: center;
+  height: 100%;
+}
